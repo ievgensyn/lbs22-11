@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+-*- coding: utf-8 -*-
 {
     'name': "openacademy",
 
@@ -27,6 +27,7 @@
         # 'security/ir.model.access.csv',
         'views/views.xml',
         'views/templates.xml',
+        'views/openacademy.xml'
     ],
     # only loaded in demonstration mode
     'demo': [
